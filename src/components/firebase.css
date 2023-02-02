@@ -1,0 +1,38 @@
+.fire-container{
+    align-items: center;
+    margin: 60px auto;
+    height: 380px;
+    width:500px;
+
+    text-align: center;
+    border-radius: 18px;
+    
+}
+.input{
+    width: 80%;
+    padding: 16px;
+    margin: 10px 5px;
+    border-radius: 16px;
+    text-align: center;
+    font-size: 20px;
+    border: light darkblue;
+}
+.btn2{
+    background-color: black;
+    color: white;
+    padding: 16px 40px;
+    margin: 10px auto;
+    border-radius: 18px;
+    display: inline-block;
+    display: flex;
+    align-items: center;
+}
+/* .btn2:hover{
+    border:2px solid tomato;
+    background-color: white;
+    color: black;
+} */
+.input:hover{
+    border: none;
+
+}
